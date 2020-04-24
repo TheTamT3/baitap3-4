@@ -1,0 +1,16 @@
+.bar {
+    background-color: gray;
+    height: 70px;
+    padding-top: 10px;
+    display: block;
+}
+.bar .bar-left {
+    margin-left: 1%;
+    float: left;
+    display: flex;
+}
+.bar .bar-right {
+    float: right;
+
+    display: flex;
+}

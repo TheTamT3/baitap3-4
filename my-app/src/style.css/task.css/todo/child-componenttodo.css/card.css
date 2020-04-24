@@ -1,0 +1,13 @@
+.card span {
+}
+.card {
+    margin-left: 2%;
+    border-radius: 10px;
+    background-color: #edecec;
+    color: black;
+    font-size: 10px;
+    padding: 0px 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,11 @@
+.header {
+    background: #659eeb;
+    height: 58px;
+    color: white;
+}
+.header .header-left {
+    float: left;
+}
+.header .header-right {
+    float: right;
+}

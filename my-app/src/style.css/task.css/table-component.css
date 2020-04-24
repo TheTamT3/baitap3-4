@@ -1,0 +1,19 @@
+.table {
+    background: white;
+    width: 23%;
+}
+.table .table-list {
+    background: #659eeb;
+    padding-top: 5px;
+    border-radius: 7px;
+    height: 500px;
+}
+.table-list .write {
+    background-color: rgba(67, 67, 67, 0.32);
+    width: 92%;
+    height: 45px;
+    margin: 0px 4%;
+    font-size: 14px;
+    color: white;
+    border-radius: 7px;
+}
